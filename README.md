@@ -51,6 +51,18 @@ Ensure your Python environment meets the requirements and install the necessary 
 pip install torch torchvision transformers flask
 ```
 
+Additionally, install and initialize Git LFS:
+
+```bash
+git lfs install
+```
+
+In the project directory, use Git LFS to download the large files:
+
+```bash
+git lfs pull
+```
+
 ### Start the Project
 
 1. Navigate to the project directory:
@@ -156,6 +168,18 @@ The frontend mouse trail effect design is inspired by: [Chokcoco CodePen](https:
 
 ```bash
 pip install torch torchvision transformers flask
+```
+
+同时，安装并初始化 Git LFS：
+
+```bash
+git lfs install
+```
+
+在项目目录下，使用 Git LFS 下载大文件：
+
+```bash
+git lfs pull
 ```
 
 ### 启动项目
