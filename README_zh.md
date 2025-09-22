@@ -1,4 +1,4 @@
-
+[English](README.md)|[中文](README_zh.md)
 ---
 # 狗狗识别——基于ViT的犬类品种分类
 
